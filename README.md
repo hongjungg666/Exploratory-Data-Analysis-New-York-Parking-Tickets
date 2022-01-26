@@ -3,7 +3,8 @@
 Roger Ren, Zhiyi Ren, Karsten Cao, Xinyue Wang
 
 ## Data Analytics Goal
-When, where, and which car the police are likely to issue tickets?
+When, where, and which car the police are likely to issue tickets?  
+
 What are the major reasons for the cars to be stickered?
 
 ## Data 
