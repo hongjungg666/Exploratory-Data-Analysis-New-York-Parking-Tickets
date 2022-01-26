@@ -2,6 +2,9 @@
 ## Author
 Roger Ren, Zhiyi Ren, Karsten Cao, Xinyue Wang
 
+## The Presentation
+Check it out!https://docs.google.com/presentation/d/10rxM-bq8BBPapIvF6vK8_OXs5WATZWqw8EYWeXzEdus/edit?usp=sharing
+
 ## Data Analytics Goal
 When, where, and which car the police are likely to issue tickets?  
 
