@@ -3,7 +3,8 @@
 Roger Ren, Zhiyi Ren, Karsten Cao, Xinyue Wang
 
 ## Data Analytics Goal
-git@github.com:hongjungg666/EDA_Using-AWS-EMR-Cluster_on_NY-Parking-Ticket.git
+When, where, and which car the police are likely to issue tickets?
+What are the major reasons for the cars to be stickered?
 
 ## Data 
 Source: https://www.kaggle.com/new-york-city/nyc-parking-tickets
