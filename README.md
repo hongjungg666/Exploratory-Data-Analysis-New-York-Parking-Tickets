@@ -1,7 +1,7 @@
 # EDA_Using-AWS-EMR-Cluster_on_NY-Parking-Ticket
 
 ## The Presentation
-Check it out![Presentation](https://docs.google.com/presentation/d/10rxM-bq8BBPapIvF6vK8_OXs5WATZWqw8EYWeXzEdus/edit?usp=sharing)
+Check it out! [Presentation](https://docs.google.com/presentation/d/10rxM-bq8BBPapIvF6vK8_OXs5WATZWqw8EYWeXzEdus/edit?usp=sharing)
 
 ## Data Analytics Goal
 When, where, and which car the police are likely to issue tickets?  
