@@ -1,6 +1,6 @@
 # New York Parking Tickets Analysis
 
-In this project, we built a data pipeline to store and access data from AWS S3 and processed data in AWS EMR. Then we used Spark RDD to analyze New York Parking tickets data set from different analytics goals. We used 5 instances m5.xlarge in EMR to process our raw data which supported us process data faster. All the Visualization is created by using Plotly which is interactive for the user to analyze if we open in a notebook mode.
+In this project, we built a data pipeline to store and access data from **AWS S3** and processed data in **AWS EMR**. Then we used **Spark RDD** to analyze New York Parking tickets data set from different analytics goals. We used 5 instances **m5.xlarge** in EMR to process our raw data which supported us process data faster. All the Visualization is created by using Plotly which is interactive for the user to analyze if we open in a notebook mode.
 ```python
 ## load data in S3
 data_path1 = "s3://msds694-project-renne/Parking_Violations_Issued_-_Fiscal_Year_2014__August_2013___June_2014_.csv"
